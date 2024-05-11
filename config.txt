@@ -1,0 +1,11 @@
+two_players:1
+obstacles:1
+bonus:1
+more_enemies:1
+speed_increase:1
+player_velocity:1
+window_width:1080
+window_height:720
+surface_size:500
+num_obstacles:6
+num_apples:3
